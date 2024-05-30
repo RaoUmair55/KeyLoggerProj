@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VSProj\\KeyLoggerProj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9AF887F-2464-489C-A5E8-43FA563DB208}|KeyLoggerProj.vcxproj|C:\\VSProj\\KeyLoggerProj\\logger.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D9AF887F-2464-489C-A5E8-43FA563DB208}|KeyLoggerProj.vcxproj|solutionrelative:logger.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "logger.asm",
+              "DocumentMoniker": "C:\\VSProj\\KeyLoggerProj\\logger.asm",
+              "RelativeDocumentMoniker": "logger.asm",
+              "ToolTip": "C:\\VSProj\\KeyLoggerProj\\logger.asm",
+              "RelativeToolTip": "logger.asm",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-08T19:20:04.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
